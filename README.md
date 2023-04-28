@@ -5,7 +5,7 @@ The Conv2D layers are used to extract features from the image, MaxPooling2D is u
 
 The model is trained on the training set for 30 epochs, and the history of the model's accuracy and loss during training and validation is recorded. The training accuracy of the model is 94% and validation accuracy is 92%.
 
-Dataset:
+# Dataset used in this study:
 FER 2013 facial emotional recognition dataset is being used in this study and can be found by following drive link or can be directly downloaded by running initial cells of code which will directly download it by API
 
 https://drive.google.com/file/d/1-1aFp1eRcEEyjavjtI5RiO3LIY8blkik/view?usp=share_link
